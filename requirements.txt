@@ -1,0 +1,4 @@
+azure-ai-projects==1.2.0b1
+azure-identity
+flask
+gunicorn
